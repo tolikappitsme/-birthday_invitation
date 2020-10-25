@@ -3,9 +3,7 @@
 	padding: 0;
 	scroll-behavior: smooth;
 }
-.burger{
-	display: none;
-}
+
 menu{
 	margin: 0px 0px;
 	margin-bottom: 100px;
@@ -120,6 +118,7 @@ text-align: center;
  padding:0px 200px;
 
 }
+
 
 main>article{
 margin: 0px auto;
@@ -281,5 +280,7 @@ main>article{
 	font-size: 1em;
 	margin: 5px 5px;
 }
+
+
 
 
